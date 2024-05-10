@@ -1,6 +1,6 @@
 # VPC with CloudFormation
 
-This CloudFormation template automates the creation of a Virtual Private Cloud (VPC) with public and private subnets, an internet gateway, and security groups.
+This CloudFormation project automates the creation of a Virtual Private Cloud (VPC) with public and private subnets, an internet gateway, and security groups.
 
 ## Architecture Diagram
 
